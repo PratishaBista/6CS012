@@ -1,0 +1,5 @@
+*.csv
+.ipynb_checkpoints/
+Week - 2 - Image Classification with Linear Classifiers/Dataset/
+Week - 2 - Image Classification with Linear Classifiers/mnist_dataset.csv
+.ipynb_checkpoints/
