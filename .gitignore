@@ -1,5 +1,10 @@
 *.csv
 .ipynb_checkpoints/
-Week - 2 - Image Classification with Linear Classifiers/Dataset/
-Week - 2 - Image Classification with Linear Classifiers/mnist_dataset.csv
-.ipynb_checkpoints/
+mnist_dataset.csv
+Week - 1 - Introduction to Linear Algebra and Derivatives for Deep Learning
+Week - 2 - Image Classification with Linear Classifiers
+Week - 3 - Getting Started with Deep Learning and Neural Network
+Module Handbook.pdf
+Worksheet - 0 - Review on Python Programming and Numpy for Deep Learning.pdf
+
+*.pdf
